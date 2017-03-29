@@ -1,0 +1,8 @@
+
+*.pyc
+
+secret_settings.py
+
+settings_live.py
+
+settings_local.py
