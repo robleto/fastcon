@@ -22,10 +22,6 @@ This site is deployed to a django server hosted by Dreamhost. This requires sett
 * [Sublime Text](https://www.sublimetext.com/) - IDE for coding the Django site
 * [Transmit](https://panic.com/transmit/) - Used for FTPing up to the Dreamhost server
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/robleto/fastcon/contributing.md) for details on our code of conduct, and the process for submitting pull requests.
-
 
 ## Authors
 
